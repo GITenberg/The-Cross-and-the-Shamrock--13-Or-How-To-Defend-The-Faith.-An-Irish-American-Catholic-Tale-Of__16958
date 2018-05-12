@@ -1,0 +1,31 @@
+_repo: The-Cross-and-the-Shamrock--13-Or-How-To-Defend-The-Faith.-An-Irish-American-Catholic-Tale-Of__16958
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quigley, Hugh
+    birthdate: 1819
+    deathdate: 1883
+    gutenberg_agent_id: '7050'
+    url: http://www.gutenberg.org/2009/agents/7050
+description: ''
+gutenberg_issued: '2005-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholics -- United States -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Irish Americans -- Fiction'
+title: "The Cross and the Shamrock\r\nOr, How To Defend The Faith. An Irish-American\
+  \ Catholic Tale Of Real Life, Descriptive Of The Temptations, Sufferings, Trials,\
+  \ And Triumphs Of The Children Of St. Patrick In The Great Republic Of Washington.\
+  \ A Book For The Entertainment And Special Instructions Of The Catholic Male And\
+  \ Female Servants Of The United States."
+url: http://www.gutenberg.org/ebooks/16958
